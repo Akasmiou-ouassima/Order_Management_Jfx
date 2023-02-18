@@ -1,0 +1,34 @@
+.button{
+    -fx-background-color: #0F42D9;
+-fx-font-family: Bahnschrift;
+    -fx-color-label-visible: Black;
+    -fx-font-weight: bold;
+}
+
+.label{
+    -fx-font-size: 14px;
+    -fx-color-label-visible: black;
+    -fx-font-family: Bahnschrift;
+    -fx-font-weight: bold;
+
+
+}
+.myTitle {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-font-family: Calibri;
+    -fx-pref-height: 45px;
+    -fx-pref-width: 300px;
+}
+.root{
+    -fx-background-color:  #CEE4F0;
+
+}
+
+.text-field,text-area{
+    -fx-border-radius: 5px;
+}
+
+.cell:hover{
+    -fx-background-color: #CEE4F0;
+}
